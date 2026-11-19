@@ -15,7 +15,7 @@ https://insights.kkvlabs.com/mcp
 - In Claude's connector directory: [claude.ai/directory/site-insights](https://claude.ai/directory/site-insights)
 - Guides: [connect Google Analytics to Claude](https://www.kkvlabs.com/site-insights/connect-claude), [to ChatGPT](https://www.kkvlabs.com/site-insights/chatgpt), [to Claude Code](https://www.kkvlabs.com/site-insights/claude-code), [for agencies](https://www.kkvlabs.com/site-insights/agencies)
 
-Free for one site. $12 a month for 10 sites, $39 a month for 50.
+Free for one site. $9 a month for 10 sites, $49 a month for 50.
 
 ## Research
 
